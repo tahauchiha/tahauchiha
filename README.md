@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **tahauchiha/tahauchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +15,17 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Taha Ashraf Ansari. 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in [Competitive Programming, Problem-Solving and Data Structures and Algorithms].
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in Competitive Programming, Problem-Solving, and Data Structures and Algorithms.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, C++/C, HTML, CSS,
-- **Frameworks & Libraries:** React, Node.js, 
-- **Tools & Platforms:** Git, Docker,
+- **Languages:** JavaScript, Python, C++/C, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js
+- **Tools & Platforms:** Git, Docker
 
+## 📊 Profile Views
 
+![Profile Views](https://komarev.com/ghpvc/?username=tahauchiha&color=blue&style=flat)
 
 ## 📈 GitHub Stats
 
