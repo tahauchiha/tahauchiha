@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 📫 How to Reach Me
 
 - **Email:** taha.ashrafansari.cd.civ21@itbhu.ac.in
-- **Twitter:** @TahaAshraf1101
-- **LinkedIn:** https://www.linkedin.com/in/taha-ashraf-ansari-318a38229/
+- **Twitter:** [@TahaAshraf1101](https://x.com/TahaAshraf1101)
+- **LinkedIn:** [Taha Ashraf Ansari](https://www.linkedin.com/in/taha-ashraf-ansari-318a38229/)
 
 
 Thanks for stopping by my profile. Feel free to explore my repositories and reach out if you have any questions or just want to connect!
